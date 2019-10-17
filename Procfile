@@ -1,0 +1,1 @@
+web: node client-and-server\client\index.html
